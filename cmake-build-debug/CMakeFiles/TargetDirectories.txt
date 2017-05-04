@@ -1,0 +1,3 @@
+C:/Users/User/Desktop/mtm/mtm_ex2/cmake-build-debug/CMakeFiles/mtm_ex2.dir
+C:/Users/User/Desktop/mtm/mtm_ex2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/User/Desktop/mtm/mtm_ex2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
